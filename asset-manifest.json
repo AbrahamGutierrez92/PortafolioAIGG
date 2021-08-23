@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolioaigg/static/css/main.f0bf0811.chunk.css",
-    "main.js": "/portafolioaigg/static/js/main.d43fb081.chunk.js",
-    "main.js.map": "/portafolioaigg/static/js/main.d43fb081.chunk.js.map",
+    "main.js": "/portafolioaigg/static/js/main.ee3564de.chunk.js",
+    "main.js.map": "/portafolioaigg/static/js/main.ee3564de.chunk.js.map",
     "runtime-main.js": "/portafolioaigg/static/js/runtime-main.6be56259.js",
     "runtime-main.js.map": "/portafolioaigg/static/js/runtime-main.6be56259.js.map",
     "static/js/2.b91061d5.chunk.js": "/portafolioaigg/static/js/2.b91061d5.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.6be56259.js",
     "static/js/2.b91061d5.chunk.js",
     "static/css/main.f0bf0811.chunk.css",
-    "static/js/main.d43fb081.chunk.js"
+    "static/js/main.ee3564de.chunk.js"
   ]
 }
