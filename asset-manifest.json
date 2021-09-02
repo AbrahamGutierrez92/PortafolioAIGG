@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portafolioaigg/static/css/main.f0bf0811.chunk.css",
-    "main.js": "/portafolioaigg/static/js/main.ee3564de.chunk.js",
-    "main.js.map": "/portafolioaigg/static/js/main.ee3564de.chunk.js.map",
-    "runtime-main.js": "/portafolioaigg/static/js/runtime-main.6be56259.js",
-    "runtime-main.js.map": "/portafolioaigg/static/js/runtime-main.6be56259.js.map",
-    "static/js/2.b91061d5.chunk.js": "/portafolioaigg/static/js/2.b91061d5.chunk.js",
-    "static/js/2.b91061d5.chunk.js.map": "/portafolioaigg/static/js/2.b91061d5.chunk.js.map",
-    "index.html": "/portafolioaigg/index.html",
-    "static/css/main.f0bf0811.chunk.css.map": "/portafolioaigg/static/css/main.f0bf0811.chunk.css.map",
-    "static/js/2.b91061d5.chunk.js.LICENSE.txt": "/portafolioaigg/static/js/2.b91061d5.chunk.js.LICENSE.txt",
-    "static/media/Covid.7211bc5b.png": "/portafolioaigg/static/media/Covid.7211bc5b.png",
-    "static/media/Eccomerce.4c33c578.png": "/portafolioaigg/static/media/Eccomerce.4c33c578.png",
-    "static/media/LoadingCoca-Cola.89dbcde5.png": "/portafolioaigg/static/media/LoadingCoca-Cola.89dbcde5.png",
-    "static/media/PortafolioAlejandraDuque.804d171d.png": "/portafolioaigg/static/media/PortafolioAlejandraDuque.804d171d.png",
-    "static/media/Restaurante1.9911a317.png": "/portafolioaigg/static/media/Restaurante1.9911a317.png",
-    "static/media/Tienda1.a556ebc0.png": "/portafolioaigg/static/media/Tienda1.a556ebc0.png",
-    "static/media/fo.1fcade5e.png": "/portafolioaigg/static/media/fo.1fcade5e.png",
-    "static/media/Header.css": "/portafolioaigg/static/media/fondo1.58a64d86.jpg"
+    "main.css": "/static/css/main.d494789b.chunk.css",
+    "main.js": "/static/js/main.ee3564de.chunk.js",
+    "main.js.map": "/static/js/main.ee3564de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
+    "static/js/2.b91061d5.chunk.js": "/static/js/2.b91061d5.chunk.js",
+    "static/js/2.b91061d5.chunk.js.map": "/static/js/2.b91061d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d494789b.chunk.css.map": "/static/css/main.d494789b.chunk.css.map",
+    "static/js/2.b91061d5.chunk.js.LICENSE.txt": "/static/js/2.b91061d5.chunk.js.LICENSE.txt",
+    "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
+    "static/media/Eccomerce.4c33c578.png": "/static/media/Eccomerce.4c33c578.png",
+    "static/media/LoadingCoca-Cola.89dbcde5.png": "/static/media/LoadingCoca-Cola.89dbcde5.png",
+    "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
+    "static/media/Restaurante1.9911a317.png": "/static/media/Restaurante1.9911a317.png",
+    "static/media/Tienda1.a556ebc0.png": "/static/media/Tienda1.a556ebc0.png",
+    "static/media/fo.1fcade5e.png": "/static/media/fo.1fcade5e.png",
+    "static/media/Header.css": "/static/media/fondo1.58a64d86.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6be56259.js",
+    "static/js/runtime-main.12f67f46.js",
     "static/js/2.b91061d5.chunk.js",
-    "static/css/main.f0bf0811.chunk.css",
+    "static/css/main.d494789b.chunk.css",
     "static/js/main.ee3564de.chunk.js"
   ]
 }
