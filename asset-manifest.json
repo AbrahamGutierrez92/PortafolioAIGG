@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.d494789b.chunk.css",
-    "main.js": "/static/js/main.3c42bd47.chunk.js",
-    "main.js.map": "/static/js/main.3c42bd47.chunk.js.map",
+    "main.css": "/static/css/main.23ff4139.chunk.css",
+    "main.js": "/static/js/main.61ec1e48.chunk.js",
+    "main.js.map": "/static/js/main.61ec1e48.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
     "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
-    "static/js/2.b91061d5.chunk.js": "/static/js/2.b91061d5.chunk.js",
-    "static/js/2.b91061d5.chunk.js.map": "/static/js/2.b91061d5.chunk.js.map",
+    "static/js/2.1a2e0f5a.chunk.js": "/static/js/2.1a2e0f5a.chunk.js",
+    "static/js/2.1a2e0f5a.chunk.js.map": "/static/js/2.1a2e0f5a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d494789b.chunk.css.map": "/static/css/main.d494789b.chunk.css.map",
-    "static/js/2.b91061d5.chunk.js.LICENSE.txt": "/static/js/2.b91061d5.chunk.js.LICENSE.txt",
+    "static/css/main.23ff4139.chunk.css.map": "/static/css/main.23ff4139.chunk.css.map",
+    "static/js/2.1a2e0f5a.chunk.js.LICENSE.txt": "/static/js/2.1a2e0f5a.chunk.js.LICENSE.txt",
     "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
     "static/media/Eccomerce.4c33c578.png": "/static/media/Eccomerce.4c33c578.png",
-    "static/media/LoadingCoca-Cola.89dbcde5.png": "/static/media/LoadingCoca-Cola.89dbcde5.png",
     "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
-    "static/media/Restaurante1.9911a317.png": "/static/media/Restaurante1.9911a317.png",
     "static/media/Tienda1.a556ebc0.png": "/static/media/Tienda1.a556ebc0.png",
-    "static/media/fo.1fcade5e.png": "/static/media/fo.1fcade5e.png",
-    "static/media/Header.css": "/static/media/fondo1.58a64d86.jpg"
+    "static/media/abraham.3e2feb87.jpg": "/static/media/abraham.3e2feb87.jpg",
+    "static/media/MainContacto.css": "/static/media/banner2.30218372.png",
+    "static/media/Error404.css": "/static/media/error.e84ad33e.png",
+    "static/media/im.5705ea85.png": "/static/media/im.5705ea85.png",
+    "static/media/im1.a6500576.png": "/static/media/im1.a6500576.png",
+    "static/media/servicio1.63e23451.jpg": "/static/media/servicio1.63e23451.jpg",
+    "static/media/servicio2.0a489342.jpg": "/static/media/servicio2.0a489342.jpg",
+    "static/media/servicio3.32eb5238.jpg": "/static/media/servicio3.32eb5238.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.12f67f46.js",
-    "static/js/2.b91061d5.chunk.js",
-    "static/css/main.d494789b.chunk.css",
-    "static/js/main.3c42bd47.chunk.js"
+    "static/js/2.1a2e0f5a.chunk.js",
+    "static/css/main.23ff4139.chunk.css",
+    "static/js/main.61ec1e48.chunk.js"
   ]
 }
