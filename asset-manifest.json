@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.de3afb03.chunk.css",
-    "main.js": "/static/js/main.f5714872.chunk.js",
-    "main.js.map": "/static/js/main.f5714872.chunk.js.map",
+    "main.css": "/static/css/main.484b940d.chunk.css",
+    "main.js": "/static/js/main.f22d2aee.chunk.js",
+    "main.js.map": "/static/js/main.f22d2aee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
     "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
-    "static/js/2.1a2e0f5a.chunk.js": "/static/js/2.1a2e0f5a.chunk.js",
-    "static/js/2.1a2e0f5a.chunk.js.map": "/static/js/2.1a2e0f5a.chunk.js.map",
+    "static/js/2.012d61cd.chunk.js": "/static/js/2.012d61cd.chunk.js",
+    "static/js/2.012d61cd.chunk.js.map": "/static/js/2.012d61cd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.de3afb03.chunk.css.map": "/static/css/main.de3afb03.chunk.css.map",
-    "static/js/2.1a2e0f5a.chunk.js.LICENSE.txt": "/static/js/2.1a2e0f5a.chunk.js.LICENSE.txt",
+    "static/css/main.484b940d.chunk.css.map": "/static/css/main.484b940d.chunk.css.map",
+    "static/js/2.012d61cd.chunk.js.LICENSE.txt": "/static/js/2.012d61cd.chunk.js.LICENSE.txt",
     "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
     "static/media/Eccomerce.4c33c578.png": "/static/media/Eccomerce.4c33c578.png",
     "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
@@ -19,14 +19,14 @@
     "static/media/Error404.css": "/static/media/error.e84ad33e.png",
     "static/media/im.5705ea85.png": "/static/media/im.5705ea85.png",
     "static/media/im1.a6500576.png": "/static/media/im1.a6500576.png",
-    "static/media/servicio1.63e23451.jpg": "/static/media/servicio1.63e23451.jpg",
+    "static/media/servicio1.6b9a3332.jpg": "/static/media/servicio1.6b9a3332.jpg",
     "static/media/servicio2.0a489342.jpg": "/static/media/servicio2.0a489342.jpg",
-    "static/media/servicio3.32eb5238.jpg": "/static/media/servicio3.32eb5238.jpg"
+    "static/media/servicio3.0b56c530.jpg": "/static/media/servicio3.0b56c530.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.12f67f46.js",
-    "static/js/2.1a2e0f5a.chunk.js",
-    "static/css/main.de3afb03.chunk.css",
-    "static/js/main.f5714872.chunk.js"
+    "static/js/2.012d61cd.chunk.js",
+    "static/css/main.484b940d.chunk.css",
+    "static/js/main.f22d2aee.chunk.js"
   ]
 }
