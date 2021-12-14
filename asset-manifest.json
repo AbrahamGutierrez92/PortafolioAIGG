@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a658131a.chunk.css",
-    "main.js": "/static/js/main.443084a4.chunk.js",
-    "main.js.map": "/static/js/main.443084a4.chunk.js.map",
+    "main.js": "/static/js/main.b835472c.chunk.js",
+    "main.js.map": "/static/js/main.b835472c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
     "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
     "static/js/2.1160ccd9.chunk.js": "/static/js/2.1160ccd9.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.1160ccd9.chunk.js.LICENSE.txt": "/static/js/2.1160ccd9.chunk.js.LICENSE.txt",
     "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
     "static/media/Eccomerce.4c33c578.png": "/static/media/Eccomerce.4c33c578.png",
+    "static/media/GeProyect.823e05a4.png": "/static/media/GeProyect.823e05a4.png",
     "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
     "static/media/StoreOnline.711455b1.png": "/static/media/StoreOnline.711455b1.png",
     "static/media/Tienda1.a556ebc0.png": "/static/media/Tienda1.a556ebc0.png",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.12f67f46.js",
     "static/js/2.1160ccd9.chunk.js",
     "static/css/main.a658131a.chunk.css",
-    "static/js/main.443084a4.chunk.js"
+    "static/js/main.b835472c.chunk.js"
   ]
 }
