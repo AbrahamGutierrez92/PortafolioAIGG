@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a658131a.chunk.css",
-    "main.js": "/static/js/main.b835472c.chunk.js",
-    "main.js.map": "/static/js/main.b835472c.chunk.js.map",
+    "main.js": "/static/js/main.7c872c28.chunk.js",
+    "main.js.map": "/static/js/main.7c872c28.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
     "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
     "static/js/2.1160ccd9.chunk.js": "/static/js/2.1160ccd9.chunk.js",
@@ -11,7 +11,6 @@
     "static/css/main.a658131a.chunk.css.map": "/static/css/main.a658131a.chunk.css.map",
     "static/js/2.1160ccd9.chunk.js.LICENSE.txt": "/static/js/2.1160ccd9.chunk.js.LICENSE.txt",
     "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
-    "static/media/Eccomerce.4c33c578.png": "/static/media/Eccomerce.4c33c578.png",
     "static/media/GeProyect.823e05a4.png": "/static/media/GeProyect.823e05a4.png",
     "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
     "static/media/StoreOnline.711455b1.png": "/static/media/StoreOnline.711455b1.png",
@@ -20,7 +19,8 @@
     "static/media/MainContacto.css": "/static/media/banner2.30218372.png",
     "static/media/Error404.css": "/static/media/error.e84ad33e.png",
     "static/media/im.5705ea85.png": "/static/media/im.5705ea85.png",
-    "static/media/im1.a6500576.png": "/static/media/im1.a6500576.png",
+    "static/media/logog.06020b6e.gif": "/static/media/logog.06020b6e.gif",
+    "static/media/mntn.48dd0fbc.png": "/static/media/mntn.48dd0fbc.png",
     "static/media/servicio1.6b9a3332.jpg": "/static/media/servicio1.6b9a3332.jpg",
     "static/media/servicio2.0a489342.jpg": "/static/media/servicio2.0a489342.jpg",
     "static/media/servicio3.0b56c530.jpg": "/static/media/servicio3.0b56c530.jpg"
@@ -29,6 +29,6 @@
     "static/js/runtime-main.12f67f46.js",
     "static/js/2.1160ccd9.chunk.js",
     "static/css/main.a658131a.chunk.css",
-    "static/js/main.b835472c.chunk.js"
+    "static/js/main.7c872c28.chunk.js"
   ]
 }
