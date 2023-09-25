@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.380af40f.chunk.css",
-    "main.js": "/static/js/main.dc82883a.chunk.js",
-    "main.js.map": "/static/js/main.dc82883a.chunk.js.map",
+    "main.css": "/static/css/main.200eef6e.chunk.css",
+    "main.js": "/static/js/main.dfaa315b.chunk.js",
+    "main.js.map": "/static/js/main.dfaa315b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f67f46.js",
     "runtime-main.js.map": "/static/js/runtime-main.12f67f46.js.map",
-    "static/js/2.00710f06.chunk.js": "/static/js/2.00710f06.chunk.js",
-    "static/js/2.00710f06.chunk.js.map": "/static/js/2.00710f06.chunk.js.map",
+    "static/js/2.d7f75319.chunk.js": "/static/js/2.d7f75319.chunk.js",
+    "static/js/2.d7f75319.chunk.js.map": "/static/js/2.d7f75319.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.380af40f.chunk.css.map": "/static/css/main.380af40f.chunk.css.map",
-    "static/js/2.00710f06.chunk.js.LICENSE.txt": "/static/js/2.00710f06.chunk.js.LICENSE.txt",
+    "static/css/main.200eef6e.chunk.css.map": "/static/css/main.200eef6e.chunk.css.map",
+    "static/js/2.d7f75319.chunk.js.LICENSE.txt": "/static/js/2.d7f75319.chunk.js.LICENSE.txt",
     "static/media/Covid.7211bc5b.png": "/static/media/Covid.7211bc5b.png",
+    "static/media/FurniShop.d8c401b2.png": "/static/media/FurniShop.d8c401b2.png",
     "static/media/GeProyect.823e05a4.png": "/static/media/GeProyect.823e05a4.png",
     "static/media/PortafolioAlejandraDuque.804d171d.png": "/static/media/PortafolioAlejandraDuque.804d171d.png",
     "static/media/StoreOnline.711455b1.png": "/static/media/StoreOnline.711455b1.png",
     "static/media/abraham.3e2feb87.jpg": "/static/media/abraham.3e2feb87.jpg",
-    "static/media/MainBloc.css": "/static/media/banner2.30218372.png",
     "static/media/django.c15e596f.png": "/static/media/django.c15e596f.png",
     "static/media/Error404.css": "/static/media/error.e84ad33e.png",
     "static/media/helpIcono.80671892.gif": "/static/media/helpIcono.80671892.gif",
     "static/media/logog.06020b6e.gif": "/static/media/logog.06020b6e.gif",
-    "static/media/mntn.48dd0fbc.png": "/static/media/mntn.48dd0fbc.png",
     "static/media/servicio1.6b9a3332.jpg": "/static/media/servicio1.6b9a3332.jpg",
     "static/media/servicio2.0a489342.jpg": "/static/media/servicio2.0a489342.jpg",
     "static/media/servicio3.0b56c530.jpg": "/static/media/servicio3.0b56c530.jpg",
@@ -28,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.12f67f46.js",
-    "static/js/2.00710f06.chunk.js",
-    "static/css/main.380af40f.chunk.css",
-    "static/js/main.dc82883a.chunk.js"
+    "static/js/2.d7f75319.chunk.js",
+    "static/css/main.200eef6e.chunk.css",
+    "static/js/main.dfaa315b.chunk.js"
   ]
 }
