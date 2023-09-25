@@ -1,0 +1,113 @@
+.portafolio{
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+    margin-bottom: 150px;
+}
+.portafolio h2{
+    text-align: center;
+    font-size: 50px;
+    color: var(--Amarillo);
+}
+.portafolio h3{
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+.portafolio .cajaportafolio{
+    display: grid;
+    grid-gap: 25px;
+    gap: 25px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin-top: 40px;
+    padding: 15px;
+}
+
+.portafolio .cajaportafolio .boxPorta{
+    width: 100%;
+    height: 100%;
+    background: #232530;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 90%) 0px 40px 58px -16px,
+    var(--primary) 0px 30px 22px -10px;
+}
+.portafolio .cajaportafolio .boxPorta:hover{
+    box-shadow: var(--primary) 0px 40px 58px -16px,
+    var(--primary) 0px 30px 22px -10px;
+}
+.portafolio .cajaportafolio .boxPorta .cajaImg{
+    width: 100%;
+    padding: 10px;
+}
+.portafolio .cajaportafolio .boxPorta .cajaImg img{
+    width: 100%;
+    border-radius: 10px;
+}
+.portafolio .cajaportafolio .boxPorta h4{
+    padding: 4px;
+    margin-left: 10px;
+    font-size: 25px;
+    color: white;
+}
+.portafolio .cajaportafolio .boxPorta p{
+    padding: 4px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: white;
+}
+.portafolio .cajaportafolio .componentes{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+}
+.portafolio .cajaportafolio .componentes div{
+    width: 50%;
+    padding: 8px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    border: 1px solid #555;
+}
+.portafolio .cajaportafolio .componentes a{
+    width: 40%;
+    padding: 10px 12px;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background: var(--Amarillo);
+}
+.portafolio .cajaportafolio .componentes a:hover{
+    border: 0.1px solid var(--primary);
+    background: transparent;
+}
+
+@media screen and (max-width: 1078px){
+    .portafolio .cajaportafolio{
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media screen and (max-width: 1075px){
+    .portafolio .cajaportafolio{
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+
+@media screen and (max-width: 1046px){
+    .portafolio .cajaportafolio{
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media screen and (max-width: 960px){
+    .portafolio .cajaportafolio{
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+}
+
