@@ -20,11 +20,9 @@ export default function MainHome(){
                   
                  </div>
                  <h2>Ing.Abraham Gutierrez</h2>
-                 <h3>Web Devloper</h3>
+                 <h3>QA, IT, Administrator, Designer and Web Developer</h3>
 
-                 <p>"Helping people turn their ideas into sites and apps that work.
-                 Professional and Cost-Effective.
-                 Always."
+                 <p>"I Help people turn their ideas into sites and apps that work. Professional and Cost-Effective"
                 </p>
 
                 <a href="#portafolio" className="btn1">Portafolio</a>

@@ -8,7 +8,7 @@ export default function About(){
           <div className="aboutContainer">
             
             <div className="boxdescripcion">
-              <p><h1 className="tituloAbout">I am Abraham Gutiérrez</h1>Systems engineer, with knowledge in web development and skills in IT Informatics, The implementation and technological innovation has transformed the current trade, that is why the investment in technologies will open new opportunities in the digital market.</p>
+              <p><h1 className="tituloAbout">I am Abraham Gutiérrez</h1>Systems engineer, with knowledge, experience in web design and development with skills in IT, technological implementation and innovation has transformed current commerce, which is why investment in technologies will open new opportunities in the digital market.</p>
             </div>
     
           </div>

@@ -19,9 +19,10 @@
     width: 65%;
     padding: 25px;
 }
+
 .aboutContainer .boxdescripcion p{
     color: white;
-    text-align:justify;
+    text-align: center;
     font-size: 25px;
 }
 
